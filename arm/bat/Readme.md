@@ -3,6 +3,8 @@ Since version 17.xx has blacklisted in termux repo. So bat no more exist in term
 this dir contains debfiles of arm.
 
 Download it and install with debfiles.
+```
+dpkg -i path/of/debfiles.deb
 
-deb -i path/of/debfiles.deb
+```
 **Note: If you get any error don't report on termux GitHub , just report here.**
